@@ -1,0 +1,13 @@
+.display{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.display-item{
+    min-width: 200px;
+    padding:10px;
+    border:1px solid #ccc;
+    margin:5px;
+}
